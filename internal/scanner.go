@@ -6,7 +6,7 @@ import (
     "runtime"
     "time"
     
-    "github.com/FJ-cyberzilla/zillabreath/internal/ui"
+    "github.com/FJ-cyberzilla/zillabreath/internal"
 )
 
 type SecurityScanner struct {
