@@ -1,7 +1,7 @@
 package analyzer
 
 import (
-    "github.com/FJ-cyberzilla/topgear/internal/scanner"
+    "github.com/FJ-cyberzilla/zillabreath/internal/scanner"
 )
 
 type ThreatAnalyzer struct{}
